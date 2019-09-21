@@ -1,12 +1,11 @@
 # 3D-snake
 Snake made using GLFW + GLAD
 
+## Controls
 
-gl-project-1.zip contains compiled objects with executable to run.
-
-
-Controls:
-
-WSAD to move up, down, left, right.
+WASD to move up, left, down, right.
 Mouse wheel to zoom in/out.
 1/2/3 to switch between rendering modes.
+
+## Demo
+![Alt Text](https://media.giphy.com/media/L2m6h7byQH63MyttnE/giphy.gif)
